@@ -1,5 +1,5 @@
 # 💫 About Me:
-😤 I'm a hard-working detail-oriented software developer. <br>✍️ I'm currently working on a personal resume builder.
+😤 I'm a hard-working detail-oriented software developer. <br>✍️ I'm currently working on a meal planner app.
 
 
 ## 🌐 Socials:
